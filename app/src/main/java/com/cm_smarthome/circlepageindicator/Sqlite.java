@@ -98,7 +98,7 @@ public class Sqlite extends SQLiteOpenHelper {
         }
     }
 
-    // Update Data(Status)
+    // Update Data(Flag)
     public long UpdateDataFlag(String strMemberID, String strFlag) {
         // TODO Auto-generated method stub
 
